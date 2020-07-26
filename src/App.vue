@@ -12,4 +12,10 @@ export default {
   }
 }
 </script>
-<style lang="stylus"></style>
+<style lang="stylus">
+#app {
+  width: 100%;
+  height: 100%;
+  background: #f5f5f5;
+}
+</style>
